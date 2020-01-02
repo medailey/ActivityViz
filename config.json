@@ -17,7 +17,11 @@
        "datalocation":  "https://raw.githubusercontent.com/medailey/AVDevRepo/gh-pages/data/sacramento/"
     },
     "nebraska":{
-       "datalocation":  "https://raw.githubusercontent.com/medailey/AVDevRepo/gh-pages/data/nebraska/"
+
+       "datalocation":  "https://raw.githubusercontent.com/RSGInc/ActivityViz_Data/master/data/nebraska/"
+    },
+    "charlotte":{
+       "datalocation":  "https://raw.githubusercontent.com/RSGInc/ActivityViz_Data/master/data/charlotte/"
 
     }
   }
